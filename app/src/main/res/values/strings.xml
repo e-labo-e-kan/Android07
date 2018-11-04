@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">elabo</string>
+    <string name="result_rank">%1$s位</string>
+    <string name="result_sign">%1$sの%2$s日の運勢</string>
+</resources>
